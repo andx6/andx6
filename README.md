@@ -22,14 +22,6 @@ I'm a student developer with a strong focus on Python development. I love solvin
 - Exploring full-stack development with Python
 - Collaborating with the developer community
 
-## 📚 Featured Projects
-
-Check out some of my notable projects:
-
-- **[Project Name](#)** - Brief description of what this project does
-- **[Project Name](#)** - Brief description of what this project does
-- **[Project Name](#)** - Brief description of what this project does
-
 ## 🤝 Open to Collaboration
 
 I'm interested in:
